@@ -1,4 +1,4 @@
-## 🚀 Streamlit Application
+## 🚀 Analysis of Alcohol Consumption and Liver Health
 
 Acesso à aplicação no link abaixo:
 
